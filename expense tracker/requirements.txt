@@ -1,0 +1,12 @@
+streamlit
+numpy
+pandas
+scikit-learn
+joblib
+requests
+python-dotenv
+reportlab
+openpyxl
+xlrd
+pypdfium2
+rapidocr-onnxruntime
